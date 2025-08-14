@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "npm run start --prefix client",
+    "build": "npm run build --prefix client"
+  }
+}
